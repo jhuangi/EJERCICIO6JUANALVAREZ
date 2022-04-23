@@ -1,0 +1,34 @@
+html{
+
+    width: 100%;
+}
+
+table{
+
+    background-color: #fff406;
+    width: 60%;
+    border-color: black;
+    border-style: dashed;
+}
+
+.cont{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: dashed;
+    text-align: center;
+}
+
+.td{
+display: flex;
+align-content: space-between;
+border-left: dashed;
+}
+
+.texto{
+
+    color: orangered;
+}
+
+
+
